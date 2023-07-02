@@ -17,7 +17,7 @@ def main():
         "train_dqn_gui": GameMode.TRAIN_DQN_GUI,
     }
 
-    parser = argparse.ArgumentParser(description="Run snake game agent.")
+    parser = argparse.ArgumentParser(description="Run snake game agent hurrey!!!!!!")
     parser.add_argument(
         "-s",
         default="hamilton",
